@@ -1,4 +1,4 @@
-# 👋 Hello, I am Mayuri
+# 👋 Hello, I'm Mayuri
 
 ### `Java Full Stack Developer` · `ML Enthusiast` · `Problem Solver`
 
