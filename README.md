@@ -3,7 +3,7 @@
 ### `Java Full Stack Developer` · `ML Enthusiast` · `Problem Solver`
 
 ```text
-I build → I break → I learn → I improve → I build again.
+I build → I break → I learn → I improve → I build again...
 ```
 
 ## 🧑‍💻 What I Do
